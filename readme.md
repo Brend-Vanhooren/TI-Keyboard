@@ -1,4 +1,5 @@
 This program is designed for the TI-84 plus CE-T Python and thus only tested on it. This was made for personal use.
+**Still under development!**
 
 How to use:
 - Compiling:
