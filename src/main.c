@@ -1,8 +1,7 @@
 /*
  *--------------------------------------
  * Program Name: TI-Keyboard
- * Author: Ratsmacker
- * License: What is this???
+ * Author: Brend Vanhooren
  * Description: Use ti-84 as keyboard via usb.
  *--------------------------------------
 */
